@@ -1,13 +1,13 @@
-#######SaMa-Arduino-Project-
+#SaMa-Arduino-Project-
 
 
- ######An arduino bot that when it detects motion it lights up and flickers and sends tweets to my account.
+ ##An arduino bot that when it detects motion it lights up and flickers and sends tweets to my account.
 
- ######1.Arduino Basics
+ ###1.Arduino Basics
 
  Go to the http://www.arduino.cc/ to understand how to setup the electronics of your arduino.
  
- ##2.Johnny Five
+ ####2.Johnny Five
  
  Check out this github accounts for *http://github.com/rwaldron/johnny-five* for more projects and codes.I modified the code I sourced from this account.
  
