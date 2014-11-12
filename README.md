@@ -1,7 +1,7 @@
 #SaMa-Arduino-Project-
 
 
- ##An arduino bot that when it detects motion it lights up and flickers and sends tweets to my account.
+ ##An arduino bot that when it detects motion it lights up and flickers and sends tweets to my account.##
 
  ###1.Arduino Basics
 
