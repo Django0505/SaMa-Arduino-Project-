@@ -1,0 +1,21 @@
+{
+  "name": "SaMa-Arduino-Project-",
+  "version": "0.0.0",
+  "description": "SaMa-Arduino-Project- =====================",
+  "main": "SaMa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Django0505/SaMa-Arduino-Project-.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Django0505/SaMa-Arduino-Project-/issues"
+  },
+  "dependencies": {
+    "ntwitter": "~0.5.0"
+  }
+}
